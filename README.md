@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋. I am Edidiong.
+#### I am a Data Scientist and Business Intelligence Analyst with experience working on a variety of data projects. I am currently a Business Intellignce Lead for Dreamworks where I am using a data first approach to maximize the revenue capacitty of the internal sales channels.
 <!--
 **EdidiongEsu/EdidiongEsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
