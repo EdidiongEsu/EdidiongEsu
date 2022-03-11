@@ -5,12 +5,12 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=212121&logo=python)](#) [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&labelColor=212121&logo=pandas&logoColor=white)](#) 
-[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&labelColor=212121&logo=numpy&logoColor=white)](#) 
+[![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&labelColor=212121&logo=numpy&logoColor=white)](#)
+[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&labelColor=212121&logo=scikit-learn&logoColor=white)](#) 
 [![PyTorch](https://img.shields.io/badge/PyTorch-%230C55A5.svg?style=for-the-badge&labelColor=212121&logo=PyTorch&logoColor=white)](#) 
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&labelColor=212121&logo=TensorFlow&logoColor=white)](#) 
 [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) 
-[![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) 
 [![SQL Server Badge](https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&labelColor=212121&logo=Microsoft%20SQL%20Server&logoColor=CC2927)](#) 
 [![Excel Badge](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=for-the-badge&labelColor=212121&logo=Microsoft%20Excel&logoColor=217346)](#) 
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=212121&logo=git&logoColor=white)](#) 
