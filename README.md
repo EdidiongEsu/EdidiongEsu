@@ -1,5 +1,5 @@
 # Hi there 👋. I am Edidiong.
-#### I am a Data Scientist and Business Intelligence Analyst with experience working on a variety of data projects. I am currently a Data Analyst for Leadway Pensure where I am using a data first approach to optimize and improve customer experience.
+#### I am a Data Scientist and Business Intelligence Analyst with experience working on a variety of data projects. I am an experienced Data Analyst skilled in leveraging Python, SQL, and Visualization tools to create actionable insights. I'm expanding my skills into Data Engineering, gaining hands-on experience in designing and implementing data pipelines using Airflow, GCP, Mage, DBT, docker, etc. I have a proven track record in delivering impactful data projects and am committed to continuous learning and growth in the field. 
 
 ## **👨‍💻 Top Technologies**
 
