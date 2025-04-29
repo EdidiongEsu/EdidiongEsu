@@ -21,7 +21,8 @@ I’m passionate about making data **accessible, actionable, and impactful**, an
 [![Astronomer Badge](https://img.shields.io/badge/-Astronomer-017E1A?style=for-the-badge&labelColor=212121&logo=astronomer&logoColor=white)](#) [![Power BI Badge](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&labelColor=212121&logo=powerbi)](#) [![Tableau Badge](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&labelColor=212121&logo=tableau)](#) [![Looker Studio Badge](https://img.shields.io/badge/-Looker%20Studio-FF4983?style=for-the-badge&labelColor=212121&logo=lookerstudio&logoColor=white)](#)  
 [![Azure Synapse Badge](https://img.shields.io/badge/Azure%20Synapse-%230072C6.svg?style=for-the-badge&labelColor=212121&logo=microsoftazure&logoColor=white)](#) [![Azure Data Factory Badge](https://img.shields.io/badge/-Azure%20Data%20Factory-6EB5B5?style=for-the-badge&labelColor=212121&logo=microsoftazure&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=212121&logo=git&logoColor=white)](#) [![Jupyter Badge](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&labelColor=212121&logo=jupyter&logoColor=white)](#)
 
-## **📫 How to Reach Me**
-- Email: [eddy.esu.22@gmail.com](mailto:eddy.esu.22@gmail.com)
-- LinkedIn: [https://www.linkedin.com/in/edidiong-esu-1942a2129/](https://www.linkedin.com/in/edidiong-esu-1942a2129/)
-- Portfolio: [https://github.com/EdidiongEsu/portfolio](https://github.com/EdidiongEsu/portfolio)
+## **📬 Click the links below to Get in Touch with Me**
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=212121&logo=linkedin)](https://www.linkedin.com/in/edidiong-esu-1942a2129/)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=212121&logo=github)](https://github.com/EdidiongEsu)
+[![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&labelColor=212121&logo=gmail&logoColor=white)](mailto:eddy.esu.22@gmail.com)
