@@ -1,8 +1,8 @@
 # Hello, I'm Edidiong Esu 👋
 
-I’m a **Senior Data Analyst** transitioning into **Data Engineering**, with over 4 years of experience transforming raw data into actionable insights that power business strategies. I specialize in creating efficient **data pipelines**, optimizing **ETL processes**, and leveraging cutting-edge **cloud technologies** (GCP, Azure) to streamline complex workflows.
+I’m a **Senior Data Analyst** expanding into **Data Engineering**, with over 4 years of experience transforming raw data into actionable insights that power business strategies. I specialize in creating efficient **data pipelines**, optimizing **ETL processes**, and leveraging cutting-edge **cloud technologies** (GCP, Azure) to streamline complex workflows.
 
-With a strong foundation in **data integration**, **business intelligence**, and **machine learning**, I thrive in using data to drive **strategic decision-making**. I'm currently expanding my expertise in **Data Engineering**, building scalable solutions using **dbt**, **Airflow**, and **Mage** to enable organizations to make more data-driven decisions, faster.
+With a strong foundation in **data integration**, **business intelligence**, and **machine learning**, I thrive in using data to drive **strategic decision-making**. I'm currently expanding my expertise in **Data Engineering**, building scalable solutions using **dbt**, **Airflow**, and **Mage** e.t.c to enable organizations to make more data-driven decisions, faster.
 
 I have a proven track record in delivering high-impact projects, from automated reporting dashboards to predictive models that directly influence business outcomes. As I transition into Data Engineering, I'm focused on building robust, cloud-native data pipelines, ensuring reliability and scalability while working in agile teams to deliver data solutions that matter.
 
@@ -12,7 +12,7 @@ I have a proven track record in delivering high-impact projects, from automated 
 - Develop **predictive models** and **machine learning** workflows that have led to measurable business improvements.
 - Automate **ETL** processes, increasing efficiency and reducing time-to-insight for business leaders.
 
-I’m passionate about making data **accessible, actionable, and impactful**, and always seeking new challenges to further hone my skills in **data engineering** and **cloud architecture**.
+I’m passionate about making data **accessible, actionable, and impactful**, and always seeking new challenges to further hone my skills in **data engineering** and **analytics engineering**.
 
 ## **🛠 Technologies & Tools**
 
