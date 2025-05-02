@@ -34,5 +34,7 @@ I’m passionate about making data **accessible, actionable, and impactful**, an
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdidiongEsu&show_icons=true&locale=en&layout=compact" alt="EdidiongEsu" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdidiongEsu&show_icons=true&locale=en" alt="EdidiongEsu" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EdidiongEsu" alt="EdidiongEsu" /></p>
+
 
 
