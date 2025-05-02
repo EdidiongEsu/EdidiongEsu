@@ -6,8 +6,11 @@ With a strong foundation in **data integration**, **business intelligence**, and
 
 I have a proven track record in delivering high-impact projects, from automated reporting dashboards to predictive models that directly influence business outcomes. As I transition into Data Engineering, I'm focused on building robust, cloud-native data pipelines, ensuring reliability and scalability while working in agile teams to deliver data solutions that matter.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EdidiongEsu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="EdidiongEsu" /> </p>
+
+
 ## **🚀 What I Do**
-- Design and implement **end-to-end data pipelines** using **GCP**, **Azure**, **dbt**, **Airflow**, and **Mage**.
+- Design and implement **end-to-end data pipelines** using **GCP**, **Azure**, **dbt**, **Airflow**, **Databricks**, **Mage** and a lot more!
 - Build dynamic, real-time **Power BI** and **Tableau** dashboards to visualize data and enhance decision-making.
 - Develop **predictive models** and **machine learning** workflows that have led to measurable business improvements.
 - Automate **ETL** processes, increasing efficiency and reducing time-to-insight for business leaders.
@@ -26,3 +29,9 @@ I’m passionate about making data **accessible, actionable, and impactful**, an
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=212121&logo=linkedin)](https://www.linkedin.com/in/edidiong-esu-1942a2129/)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=212121&logo=github)](https://github.com/EdidiongEsu)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&labelColor=212121&logo=gmail&logoColor=white)](mailto:eddy.esu.22@gmail.com)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=EdidiongEsu&show_icons=true&locale=en&layout=compact" alt="EdidiongEsu" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EdidiongEsu&show_icons=true&locale=en" alt="EdidiongEsu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EdidiongEsu&" alt="EdidiongEsu" /></p>
+
