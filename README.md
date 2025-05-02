@@ -36,6 +36,9 @@ I’m passionate about making data **accessible, actionable, and impactful**, an
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&labelColor=212121&logo=github)](https://github.com/EdidiongEsu)
 [![Email Badge](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&labelColor=212121&logo=gmail&logoColor=white)](mailto:eddy.esu.22@gmail.com)
 
+
+## **📊 My Stats**
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EdidiongEsu&show_icons=true&locale=en&layout=compact" alt="EdidiongEsu" style="height: 180px;" />
   <img src="https://github-readme-stats.vercel.app/api?username=EdidiongEsu&show_icons=true&locale=en" alt="EdidiongEsu" style="height: 180px;" />
