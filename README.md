@@ -6,7 +6,12 @@ With a strong foundation in **data integration**, **business intelligence**, and
 
 I have a proven track record in delivering high-impact projects, from automated reporting dashboards to predictive models that directly influence business outcomes. As I transition into Data Engineering, I'm focused on building robust, cloud-native data pipelines, ensuring reliability and scalability while working in agile teams to deliver data solutions that matter.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=EdidiongEsu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="EdidiongEsu" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=EdidiongEsu&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="EdidiongEsu" height="27" />
+  <a href="https://github.com/EdidiongEsu/capital_bikeshare">
+    <img src="https://img.shields.io/github/stars/EdidiongEsu/capital_bikeshare?style=social" alt="My Top Repo" height="27" />
+  </a>
+</p>
 
 
 ## **🚀 What I Do**
