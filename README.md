@@ -1,6 +1,6 @@
 # Hello, I'm Edidiong Esu 👋
 
-I’m a **Data and Analytics Engineer**, with over 4 years of experience transforming raw data into actionable insights that power business strategies. I specialize in creating efficient **data pipelines**, optimizing **ETL processes**, and leveraging cutting-edge **cloud technologies** (GCP, Azure) to streamline complex workflows.
+I’m a **Data and Analytics Engineer**, with over 5 years of experience transforming raw data into actionable insights that power business strategies. I specialize in creating efficient **data pipelines**, optimizing **ETL processes**, and leveraging cutting-edge **cloud technologies** (GCP, Azure) to streamline complex workflows.
 
 With a strong foundation in **data integration**, **business intelligence**, and **machine learning**, I thrive in using data to drive **strategic decision-making**. I'm currently expanding my expertise in **Data Engineering**, building scalable solutions using **dbt**, **Airflow**, and **Mage** e.t.c to enable organizations to make more data-driven decisions, faster.
 
